@@ -6,8 +6,8 @@
             "iso_checksum": "md5:5a3b0b3f4a6654ee195ec6edb6d938a4",
             "vm_name": "centos7-minimal",
             "guest_os_type": "RedHat_64",
-            "ssh_username": "vagrant ",
-            "ssh_password": "vagrant",
+            "ssh_username": "root",
+            "ssh_password": "packer",
             "ssh_port": 22,
             "ssh_wait_timeout": "2000s",
             "vboxmanage": [
